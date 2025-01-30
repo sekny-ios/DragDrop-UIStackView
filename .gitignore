@@ -1,0 +1,11 @@
+Pods/
+.DS_Store
+.build/
+## Build generated
+build/
+DerivedData/
+DragDropStackView.xcworkspace/contents.xcworkspacedata
+Podfile.lock
+DragDropStackView/Gloabal/Env/Config.swift
+DragDropStackView.xcworkspace/xcuserdata/
+DragDropStackView.xcworkspace/xcuserdata/**/
